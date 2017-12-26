@@ -1,0 +1,1 @@
+document.write("Welcome to javaScript Programming") //Welcome to javaScript Programming

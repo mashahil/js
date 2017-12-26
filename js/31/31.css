@@ -1,0 +1,21 @@
+body{
+	background-color: #99ffff;
+	;
+}
+form{
+	margin-left: 50px;
+	margin-top: 55px;
+}
+table{
+	width: 300px;
+	height: 150px;
+
+}
+td{
+	font-size: 15px;
+	text-align: center;
+}
+th{
+	padding-top: 20px;
+	font-size: 20px;
+}
